@@ -1,12 +1,6 @@
-# ej2-react-scheduler
+# React Scheduler with TypeScript and Russian Localization Support
 
-## Repository Description
-
-A React-based scheduling application built with Syncfusion EJ2 Scheduler component and TypeScript. This project provides a robust scheduler interface with support for calendar events, Russian culture localization, and responsive design.
-
-## Project Overview
-
-This project demonstrates a complete implementation of the Syncfusion EJ2 React Scheduler component with TypeScript. It was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and includes support for multiple locales including Russian culture settings. The scheduler component provides a powerful and intuitive interface for managing events and appointments.
+This project demonstrates a React-based scheduling application using the [React Scheduler](https://www.syncfusion.com/react-components/react-scheduler) with TypeScript. It showcases building a robust and intuitive scheduler interface with support for event management, Russian culture localization, and responsive design, serving as a practical example for creating scalable and multi-language scheduling solutions in React applications.
 
 ## Features
 
@@ -15,6 +9,13 @@ This project demonstrates a complete implementation of the Syncfusion EJ2 React 
 - **Localization**: Russian culture support with CLDR data integration
 - **Responsive Design**: Works across all devices
 - **Hot-reload**: Rapid development with auto-refresh
+
+## Prerequisites
+
+Before running this project, ensure you have:
+
+- **Node.js** (v12 or higher)
+- **npm** (v6 or higher)
 
 ## Installation & Quick Start
 
